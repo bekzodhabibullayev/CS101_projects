@@ -1,4 +1,4 @@
-user_name=input('please enter your name: ')
-
-print('Hello, ' + user_name +' !Welcome to CS02.')
-
+a=10
+b=25
+C=55
+print(c+a*b)
