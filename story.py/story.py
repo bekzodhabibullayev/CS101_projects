@@ -1,0 +1,6 @@
+print("Let's write a story! Please provide some words.")
+adjective = input("Golden:")
+noun = input("house")
+verb_past_tense = input("Got fired")
+print("in the capital of Uzbekistan")
+print("The" + Golden + "house" + "got fired" + "during summer days")
